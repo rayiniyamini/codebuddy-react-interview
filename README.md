@@ -52,6 +52,7 @@
 7. Run `npm run start` or `yarn start` to run the project.
 8. Project will start at http://localhost:3000
 9.learning
+10.try
 
 > If you are on Windows and getting lot of ESLint errors due end of line characters CRLF please run the below command to fix it.
 
