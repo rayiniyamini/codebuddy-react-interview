@@ -51,6 +51,7 @@
 6. Create a `.env` by copying `.env.example` at the root of the project.
 7. Run `npm run start` or `yarn start` to run the project.
 8. Project will start at http://localhost:3000
+9.learning
 
 > If you are on Windows and getting lot of ESLint errors due end of line characters CRLF please run the below command to fix it.
 
