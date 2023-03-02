@@ -7,6 +7,7 @@ worker.start();
 
 ReactDOM.render(
   <React.StrictMode>
+    <h1>Modified file</h1>
     <App />
   </React.StrictMode>,
   document.getElementById('root'),
