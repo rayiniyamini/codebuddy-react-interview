@@ -54,6 +54,7 @@
 9.learning
 10.try
 11.recollect
+12.practice
 
 
 
